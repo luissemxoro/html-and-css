@@ -5,4 +5,4 @@
 
 Estou aprendendo a gerenciar o meu repositório.
 
-<a href="https://luissemxoro.github.io/html-and-css/exercicios/ex003/index.html">Exercicio 003</a>
+<a href="https://luissemxoro.github.io/html-and-css/Exercicios/ex003/index.html">Exercicio 003</a>
