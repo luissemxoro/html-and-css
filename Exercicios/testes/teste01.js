@@ -1,1 +1,0 @@
-document.write("Este é um exemplo de JS")
